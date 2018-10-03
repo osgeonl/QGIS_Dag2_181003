@@ -9,7 +9,7 @@ Het programma van 3 oktober 2018:
 10:00 – 12:30 Workshop Plug-in Bouwen (Marco Duijker, MD Kwadraat) (Zaal 2)
 
 12:30 – 13:30 Lunch en inloop andere bezoekers
-13:30 – 13:45 Openingswoord ([Just van den Broecke OSGeo.nl](OSGeo.nl_QGIS_Dag_2018-2-Just.pdf) 
+13:30 – 13:45 Openingswoord (Jonas/Coen, Just)
 13:45 – 14:15 DEM to 3D (Wouter Poos, Ordina)
 14:15 – 14:45 Digitalisering Projectplannen RWS (Jacco Wanders, Stantec)
 14:45 – 15:15 Koffiepauze
