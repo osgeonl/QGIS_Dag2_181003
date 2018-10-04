@@ -1,4 +1,4 @@
-# QGIS_Dag_Okt2018
+# QGIS Gebruikers Dag #2
 Presentatie materiaal QGIS Gebruikersdag van 3 okt 2018, Ordina Nieuwegein. Zie ook 
 [qgis.nl](http://www.qgis.nl/2018/09/24/aangepaste-tijden-programma-qgis-gebruikersdag/).
 
